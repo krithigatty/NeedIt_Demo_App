@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" db_object_id="4ed3944b834f86108be9c810feaad32a" extends="task" label="NeedIt" max_length="40" name="x_1459500_demo_app_needit" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Demo shortdesc" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>
